@@ -1,0 +1,11 @@
+{
+  "name": "real-time-proj",
+  "version": "1.0.0",
+  "description": "a big project walkthrough",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anish kumar singh",
+  "license": "ISC"
+}
